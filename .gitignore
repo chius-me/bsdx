@@ -1,0 +1,26 @@
+# Environment
+.env
+
+# Binary
+bsdx
+*.exe
+
+# Runtime
+session.pid
+
+# Design docs (local only)
+docs/
+
+# Go
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
